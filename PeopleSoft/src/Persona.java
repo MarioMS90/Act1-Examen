@@ -23,3 +23,5 @@
 		this.apellido = apellido;
 	}
 }
+// Descripción: interfaz persona.
+// Autor: escribe tu nombre aquí.
