@@ -23,3 +23,6 @@
 		this.apellido = apellido;
 	}
 }
+// Descripción: interfaz persona.
+// Autor: Mario Muñoz Serrano
+// Autor2: Mario Muñoz Serrano
