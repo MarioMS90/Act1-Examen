@@ -23,3 +23,4 @@
 		this.apellido = apellido;
 	}
 }
+// Descripción: interfaz persona.
