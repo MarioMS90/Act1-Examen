@@ -24,4 +24,5 @@
 	}
 }
 // Descripción: interfaz persona.
-// Autor: escribe tu nombre aquí.
+// Autor: Mario Muñoz Serrano
+// Autor2: Mario Muñoz Serrano
