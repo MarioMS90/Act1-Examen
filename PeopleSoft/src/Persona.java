@@ -24,3 +24,4 @@
 	}
 }
 // Descripción: interfaz persona.
+// Autor: escribe tu nombre aquí.
