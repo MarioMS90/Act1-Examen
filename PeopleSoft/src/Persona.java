@@ -1,5 +1,5 @@
 ﻿public class Persona {
-	public String nombre;
+	private String nombre;
 	private String apellido;
 
 	public Persona(String nombre, String apellido) {
@@ -24,4 +24,5 @@
 	}
 }
 // Descripción: interfaz persona.
-// Autor: escribe tu nombre aquí.
+// Autor: Mario Muñoz Serrano
+// Autor2: Mario Muñoz Serrano
